@@ -92,7 +92,8 @@ section {
 }
 
 .image-container {
-  width: 50%;
+  text-align: left;
+  width: 30%;
   height: 450px;
   margin-left: -100px;
   margin-top: 3em;
